@@ -1,0 +1,10 @@
+# Sensitive Environment Variables
+.env
+
+# Python System Caches
+__pycache__/
+*.pyc
+
+# Application Local Files & Translation Configs
+.files/
+.chainlit/
