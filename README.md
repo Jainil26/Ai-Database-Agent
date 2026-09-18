@@ -172,7 +172,7 @@ MIT License — feel free to use, fork, and build on this.
 
 ## 🙋 Author
 
-**Jainil** — Computer Science Student  
+**Jainil** — Computer Engineering Student  
 [LinkedIn](https://www.linkedin.com/in/jainil-chavda/) • [GitHub](https://github.com/Jainil26/Ai-Database-Agent)
 
 > ⭐ If this helped you understand how AI agents actually work under the hood, drop a star!
